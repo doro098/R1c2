@@ -1,4 +1,7 @@
 # R1c2
+
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/doro098/r1c2?utm_source=readme&utm_medium=badge)
+
 Repositorio entrega cuenta 2
 
 Trabajo de Engler Lisandro Francisco (`lichaengler`). El sketch original se
